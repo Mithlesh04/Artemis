@@ -1,10 +1,6 @@
 import React from 'react';
 
-import { BarChart, Bar ,
-
-    AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer 
-
-} from 'recharts';
+import { BarChart, Bar , AreaChart, Area } from 'recharts';
 
 
 const data = [
